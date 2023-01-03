@@ -7,16 +7,16 @@
 <atom:link href="https://galaviz1.github.io/home/index.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Contact</title>
-<link>https://zpinjun.github.io/contact/</link>
+<link>https://galaviz1.github.io/home/contact/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 <guid>https:/https://galaviz1.github.io/home/contact/</guid>
 <description> Email: jagalaviz@ieee.org </description>
 </item>
 <item>
-<title>Pinjun Zheng</title>
-<link>https://zpinjun.github.io/about/</link>
+<title>Jose Alejandro Galaviz-Aguilar</title>
+<link>https://galaviz1.github.io/home/about/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<guid>https://zpinjun.github.io/about/</guid>
+<guid>https://galaviz1.github.io/home/about/</guid>
 <description>Jose Alejandro Galaviz-Aguilar received the M.Sc. and the Ph.D. degree in digital systems from the Instituto Politecnico Nacional, (IPN) of Mexico in 2013 and 2017, respectively. He was a visiting scholar from 2014 to 2016, in the Non-Linear RF Research Laboratory of the Department of Electrical and Computer Engineering (ECE) at The Ohio State University (OSU) under the supervision of Prof. Patrick Roblin, Columbus, OH, USA. He is currently a member of the Mexican National Researchers System (SNI) and Senior Member of the IEEE. He currently holds a research associate position with the Research Group on Telecommunications at Tecnologico de Monterrey. His current research interests include, FPGA-design and development for end applications, nonlinear RF/Microwave device characterization, measurement, behavioral modeling, digital predistortion for power amplifiers linearization, and digital signal processing solutions for efficient wireless communication systems.</description>
 </item>
 </channel>
